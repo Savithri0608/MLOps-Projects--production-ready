@@ -1,2 +1,0 @@
-['remote "s3remote"']
-    url = s3://churn-model-savithri
