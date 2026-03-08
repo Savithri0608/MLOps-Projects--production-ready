@@ -1,0 +1,7 @@
+# backup files
+*~
+
+/churn_data.csv
+# python
+__pycache__/
+*.pyc
