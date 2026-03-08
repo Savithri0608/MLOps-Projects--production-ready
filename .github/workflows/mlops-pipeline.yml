@@ -1,6 +1,6 @@
 name: MLOps Pipeline
 
-#two which action do you need trgger workflow
+#two which action do you need trigger workflow
    
 on:
   push:    
